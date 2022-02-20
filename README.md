@@ -42,3 +42,7 @@ When you like a message with messageId, the app records username, increases like
 The app can be upgraded with on additions to the helper projects structure to create more detailed interest records, following users, or users own choice of interest. Main project can add new features like posting photos, videos and sound files.
 
 I wish I had more time to continue this project but in future I definetely will. You can follow me I will keep this project in another repository.
+
+ - Here's link of Main Project:
+
+https://github.com/Patika-PayCore-BootCamp-Organization/hw-project-AerenN
